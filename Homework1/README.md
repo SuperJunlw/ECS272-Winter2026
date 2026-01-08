@@ -26,7 +26,9 @@ Each of the following datasets can be downloaded as CSV files.
 * [World Top Restaurants](https://www.kaggle.com/datasets/shaistashahid/world-top-resturants)
 * [TV Show Ratings](https://www.kaggle.com/datasets/raveennimbiwal/top-rated-tv-shows-dataset-global-2025)
 * [Future Jobs and Skills Demand](https://www.kaggle.com/datasets/ahsanneural/future-jobs-and-skills-demand-2025)
-* [Global Disaster Response](https://www.kaggle.com/datasets/zubairdhuddi/global-daset)
+* [Coffee Sales](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)
+* [CO2 Emission Around the World](https://www.kaggle.com/datasets/koustavghosh149/co2-emission-around-the-world)
+* ~~[Global Disaster Response](https://www.kaggle.com/datasets/zubairdhuddi/global-daset)~~ (invalid geospatial data)
 
 
 Please follow [this tutorial](https://observablehq.com/@observablehq/a-taste-of-observable#cell-1352) to load your data into the notebook. 
